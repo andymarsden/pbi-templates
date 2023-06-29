@@ -23,7 +23,7 @@ Council Green: #B9BF15
 
 ![image](https://github.com/andymarsden/pbi-templates/assets/46504022/106c8f83-a6e5-4b99-bdb7-14546118a37b)
 
-
+⭐Tip: Use Format Painter for visuals
 
 
 #### Key indicators
@@ -41,3 +41,44 @@ Settings:
 - Accent Bar: On, 2px, {neutral:$GreyNeutral, Red: $ContextRed, Amber: $ContextAmber, Green: $ContextGreen}
 - Category Labels: On, Font: Segoe Semibold, Font Size: 9px, Font color: $TextGrey
 - Call out values: Font: Segoe ui, Font Size: 16px, Font color: $TextGrey
+
+##### Fiters Pane 
+The filters pane is important for non-static data. We use filters to provide users with the ability to interact and analyse data in a more personalised and targeted manner. 
+
+![image](https://github.com/andymarsden/pbi-templates/assets/87974094/5fbf08ca-56fb-4ab0-b577-9fd5aaa7a298)
+
+Having the filters on a pane on the left of the platform gives a prominent display throughout all reports; users will be able to digest and understand the report.
+
+##### Slicers on Filters Pane
+Filters tend to be a slicer whether this is a dropdown, vertical list or a slider. 
+
+![slicers_on_filters_pane](https://github.com/andymarsden/pbi-templates/assets/87974094/ce61140c-876a-40db-a223-254e872ea556)
+
+It is very important you get the look and feel of this right. 
+
+Settings: 
+- Title: Heading: Heading 3, Font: Segoe ui SemiBold, Font Size: 8px, Font Color: $TextDark
+- Slicer Header: Off
+- Values: Font: Segoe ui, Font Size: 10px, Font Color: $TextDark, Padding: 4px
+
+##### Informaton icon
+The icon gives more information on what exaclty the visual below is showing. 
+This icon is displayed on the same line as the title of the visual being shown. It gives more information on what exactly the visual is showing.
+
+![image](https://github.com/andymarsden/pbi-templates/assets/87974094/2704ddc3-588a-4cff-8384-5fd5e31b2de5)
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+  
