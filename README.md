@@ -74,7 +74,12 @@ Now you will see that tooltip is displayed (should be 'On') - you can add text t
 
 ![tooltip_iicon](https://github.com/andymarsden/pbi-templates/assets/87974094/de0880f0-8fa1-4240-a52f-81e87f479eca)
 
+##### Bookmarks bar
+![bookmarks_bar](https://github.com/andymarsden/pbi-templates/assets/87974094/8cb2e9b0-9654-45ba-8942-2f184e5a5f8c)
 
+The bookmarks bar is used to display different views of the current view. 
+
+![image](https://github.com/andymarsden/pbi-templates/assets/87974094/c8743bea-49e2-48d2-b746-01e9a05f9dff)
 
 
 
