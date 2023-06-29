@@ -21,6 +21,10 @@ $ContextGreen:
 
 Council Green: #B9BF15
 
+ChartBlue: #26B9C0
+
+ChartGrey: #4D5A6F
+
 ![image](https://github.com/andymarsden/pbi-templates/assets/46504022/106c8f83-a6e5-4b99-bdb7-14546118a37b)
 
 ⭐Tip: Use Format Painter for visuals
@@ -42,14 +46,14 @@ Settings:
 - Category Labels: On, Font: Segoe Semibold, Font Size: 9px, Font color: $TextGrey
 - Call out values: Font: Segoe ui, Font Size: 16px, Font color: $TextGrey
 
-##### Fiters Pane 
-The filters pane is important for non-static data. We use filters to provide users with the ability to interact and analyse data in a more personalised and targeted manner. 
+##### Fiters Panel 
+The filters panel is important for non-static data. We use filters to provide users with the ability to interact and analyse data in a more personalised and targeted manner. 
 
 ![image](https://github.com/andymarsden/pbi-templates/assets/87974094/5fbf08ca-56fb-4ab0-b577-9fd5aaa7a298)
 
-Having the filters on a pane on the left of the platform gives a prominent display throughout all reports; users will be able to digest and understand the report.
+Having the filters on a panel on the left of the platform gives a prominent display throughout all reports; users will be able to digest and understand the report.
 
-##### Slicers on Filters Pane
+##### Slicers on Filters Panel
 Filters tend to be a slicer whether this is a dropdown, vertical list or a slider. 
 
 ![slicers_on_filters_pane](https://github.com/andymarsden/pbi-templates/assets/87974094/ce61140c-876a-40db-a223-254e872ea556)
@@ -66,7 +70,7 @@ The icon gives more information on what exaclty the visual below is showing.
 
 ![image](https://github.com/andymarsden/pbi-templates/assets/87974094/2704ddc3-588a-4cff-8384-5fd5e31b2de5)
 
-You can do this by adding a button, once you have added a button click the button, go to actions in the format pane on the right hand side of power bi, navigate to action and turn it on.
+You can do this by adding a button, once you have added a button click the button, go to actions in the format panel on the right hand side of power bi, navigate to action and turn it on.
 
 ![image](https://github.com/andymarsden/pbi-templates/assets/87974094/d4b49c1b-6548-450b-9d95-8b529a6583af)
 
@@ -77,11 +81,37 @@ Now you will see that tooltip is displayed (should be 'On') - you can add text t
 ##### Bookmarks bar
 ![bookmarks_bar](https://github.com/andymarsden/pbi-templates/assets/87974094/8cb2e9b0-9654-45ba-8942-2f184e5a5f8c)
 
-The bookmarks bar is used to display different views of the current view. 
+The bookmarks bar is used to display different views of the current view.
 
 ![image](https://github.com/andymarsden/pbi-templates/assets/87974094/c8743bea-49e2-48d2-b746-01e9a05f9dff)
 
+##### Tornado chart 
+![image](https://github.com/andymarsden/pbi-templates/assets/87974094/99846698-04db-4738-99dd-87eeb9d71e43)
 
+A tornado chart is a great way of displaying data. An example of this is age and gender. 
+
+You must change the age to a whole number. To do this follow the instructions below.
+
+###### Instructions: 
+
+1. Click the tornado chart
+2. Click the age column in the data panel
+3. Navigate to the top of the page and change format to the whole number
+
+As well as this, make sure the colours are the same as in this guide (Female - ChartBlue, Male - ChartGrey). Using these colours ensures consistency throughout all reports. 
+
+Remove the title as it is already clear with what is being visualised by the use of the legend labels.
+
+##### Data Table
+![image](https://github.com/andymarsden/pbi-templates/assets/87974094/4928890f-9e94-426b-9bf1-ae6b4d76c0e3)
+
+We use data tables to display related data. Using this format we make it look slick and easy to the eye. 
+
+###### Instructions:
+Values: Font: Segoe ui, Font Size: 8px, Text color: $TextDark Background, color: White Alternate, text color: $TextDark
+Totals: Font: Segoe ui, Font Size: 8px, bold
+Grid: Border: Section: All, Color: ChartGrey, Width: 1
+Column Headers: Font: Segoe ui, Font Size: 8px, Text color: $TextDark
 
 
 
