@@ -113,7 +113,13 @@ Totals: Font: Segoe ui, Font Size: 8px, bold
 Grid: Border: Section: All, Color: ChartGrey, Width: 1
 Column Headers: Font: Segoe ui, Font Size: 8px, Text color: $TextDark
 
+##### What a Good One Looks Like VS What a Bad One Looks like
 
+| WAGOLL | WABOLL |
+| ------------- | ------------- |
+| ![image](https://github.com/andymarsden/pbi-templates/assets/87974094/972a65b8-443e-4988-b689-5f9666958994) | ![image](https://github.com/andymarsden/pbi-templates/assets/87974094/e980faae-6ac9-4517-9691-476e09ffa963)
+
+  |
 
 
 
