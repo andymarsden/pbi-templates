@@ -63,13 +63,16 @@ Settings:
 
 ##### Informaton icon
 The icon gives more information on what exaclty the visual below is showing. 
-This icon is displayed on the same line as the title of the visual being shown. It gives more information on what exactly the visual is showing.
 
 ![image](https://github.com/andymarsden/pbi-templates/assets/87974094/2704ddc3-588a-4cff-8384-5fd5e31b2de5)
 
+You can do this by adding a button, once you have added a button click the button, go to actions in the format pane on the right hand side of power bi, navigate to action and turn it on.
 
+![image](https://github.com/andymarsden/pbi-templates/assets/87974094/d4b49c1b-6548-450b-9d95-8b529a6583af)
 
+Now you will see that tooltip is displayed (should be 'On') - you can add text to the tooltip which will show once hovering over the button you have created, like in the image below.
 
+![tooltip_iicon](https://github.com/andymarsden/pbi-templates/assets/87974094/de0880f0-8fa1-4240-a52f-81e87f479eca)
 
 
 
