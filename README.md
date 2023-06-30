@@ -78,6 +78,7 @@ Now you will see that tooltip is displayed (should be 'On') - you can add text t
 
 ![tooltip_iicon](https://github.com/andymarsden/pbi-templates/assets/87974094/de0880f0-8fa1-4240-a52f-81e87f479eca)
 
+
 The line underneath is a line from the shapes elements. Border: 0.5 width
 
 ![image](https://github.com/andymarsden/pbi-templates/assets/87974094/3155cce3-0973-4705-82c9-890d7db3cfcc)
