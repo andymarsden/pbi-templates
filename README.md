@@ -83,6 +83,12 @@ The line underneath is a line from the shapes elements. Border: 0.5 width
 
 ![image](https://github.com/andymarsden/pbi-templates/assets/87974094/3155cce3-0973-4705-82c9-890d7db3cfcc)
 
+##### Top of platform bars
+![image](https://github.com/andymarsden/pbi-templates/assets/87974094/83be6971-c4b0-44a4-bc52-8d1536342d6a)
+
+
+
+
 
 ##### Bookmarks bar
 ![bookmarks_bar](https://github.com/andymarsden/pbi-templates/assets/87974094/8cb2e9b0-9654-45ba-8942-2f184e5a5f8c)
