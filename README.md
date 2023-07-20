@@ -83,12 +83,14 @@ The line underneath is a line from the shapes elements. Shape Style - Width: 0.5
 
 ![image](https://github.com/andymarsden/pbi-templates/assets/87974094/3155cce3-0973-4705-82c9-890d7db3cfcc)
 
-##### Top of platform bars
+##### Top of platform infomation
 ![image](https://github.com/andymarsden/pbi-templates/assets/87974094/83be6971-c4b0-44a4-bc52-8d1536342d6a)
-
-
-
-
+###### Styles and Fonts
+Council Name - Font: Segoe (Bold), Font Size: 8px, Left Aligned (text box)
+Team - Font: Segoe UI, Font Size: 10px, Left Aligned (text box)
+Social Care Department - Same line / text box as Team, Font: Segoe UI, Font Size: 8.3px
+Description - Same text box as Team but line below, Segoe UI, Font Size: 10px
+Tab Name - On the section below Team, Social Care Department and Description, Font: Segoe (Bold), Font Size: 8px
 
 ##### Bookmarks bar
 ![bookmarks_bar](https://github.com/andymarsden/pbi-templates/assets/87974094/8cb2e9b0-9654-45ba-8942-2f184e5a5f8c)
