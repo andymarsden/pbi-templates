@@ -65,6 +65,15 @@ Settings:
 - Slicer Header: Off
 - Values: Font: Segoe ui, Font Size: 10px, Font Color: $TextDark, Padding: 4px
 
+##### Alligning titles, line and visuals
+The allignment is key in how the report looks. When alligned correctly the report looks much neater. 
+
+![image](https://github.com/andymarsden/pbi-templates/assets/87974094/731c2cee-22a4-420c-8176-5d5e33f86d86)
+
+Title - Text box Font(Segoe UI), Font size: 9px, left padding: 0px, all other padding default
+Line - Shapes element, Shape Style - Width: 0.5 width, Border: #B3B3B3
+Visuals - Allign top of visual with line and allign the left border of the visual with the left side of the line / title
+
 ##### Informaton icon
 The icon gives more information on what exaclty the visual below is showing. 
 
